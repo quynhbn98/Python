@@ -1,0 +1,307 @@
+,catid,parent_catid,name,display_name,level
+0,11035567,0,Men Clothes,Thời Trang Nam,1
+1,11035568,11035567,"Jackets, Coats & Vests",Áo Khoác,2
+2,11035572,11035567,Suit Jackets & Blazers,Áo Vest và Blazer,2
+3,11035578,11035567,Hoodies & Sweatshirts,"Áo Hoodie, Áo Len & Áo Nỉ",2
+4,11035583,11035567,Jeans,Quần Jeans,2
+5,11035584,11035567,Pants/Suits,Quần Dài/Quần Âu,2
+6,11035590,11035567,Shorts,Quần Short,2
+7,11035592,11035567,Tops,Áo,2
+8,11035597,11035567,Tanks,Áo Ba Lỗ,2
+9,11035598,11035567,Innerwear & Underwear,Đồ Lót,2
+10,11035603,11035567,Sleepwear,Đồ Ngủ,2
+11,11035604,11035567,Sets,Đồ Bộ,2
+12,11035605,11035567,Socks,Vớ/Tất,2
+13,11035606,11035567,Traditional Wear,Trang Phục Truyền Thống,2
+14,11035611,11035567,Costumes,Đồ Hóa Trang,2
+15,11035612,11035567,Occupational Attire,Trang Phục Ngành Nghề,2
+16,11035613,11035567,Others,Khác,2
+17,11035614,11035567,Men Jewelries,Trang Sức Nam,2
+18,11035620,11035567,Eyewear,Kính Mắt Nam,2
+19,11035625,11035567,Belts,Thắt Lưng Nam,2
+20,11035626,11035567,"Neckties, Bow Ties & Cravats",Cà vạt & Nơ cổ,2
+21,11035627,11035567,Additional Accessories,Phụ Kiện Nam,2
+22,11035639,0,Women Clothes,Thời Trang Nữ,1
+23,11035648,11035639,Pants & Leggings,Quần,2
+24,11035652,11035639,Shorts,Quần đùi,2
+25,11035656,11035639,Skirts,Chân váy,2
+26,11035657,11035639,Jeans,Quần jeans,2
+27,11035658,11035639,Dresses,Đầm/Váy,2
+28,11035659,11035639,Wedding Dresses,Váy cưới,2
+29,11035660,11035639,"Jumpsuits, Playsuits & Overalls",Đồ liền thân,2
+30,11035665,11035639,"Jackets, Coats & Vests","Áo khoác, Áo choàng & Vest",2
+31,11035672,11035639,Sweaters & Cardigans,Áo len & Cardigan,2
+32,11035673,11035639,Hoodies & Sweatshirts,Hoodie và Áo nỉ,2
+33,11035677,11035639,Sets,Bộ,2
+34,11035682,11035639,Lingerie & Underwear,Đồ lót,2
+35,11035692,11035639,Sleepwear & Pajamas,Đồ ngủ,2
+36,11035640,11035639,Tops,Áo,2
+37,11035730,11035639,Sportwear,Đồ tập,2
+38,11035697,11035639,Maternity Wear,Đồ Bầu,2
+39,11035705,11035639,Traditional Wear,Đồ truyền thống,2
+40,11035711,11035639,Costumes,Đồ hóa trang,2
+41,11035713,11035639,Fabric,Vải,2
+42,11035726,11035639,Socks & Stockings,Vớ/ Tất,2
+43,11035712,11035639,Others,Khác,2
+44,11036030,0,Mobile & Gadgets,Điện Thoại & Phụ Kiện,1
+45,11036031,11036030,Mobile Phones,Điện thoại,2
+46,11036041,11036030,Tablets,Máy tính bảng,2
+47,11036048,11036030,Powerbanks,Pin Dự Phòng,2
+48,11036054,11036030,"Batteries, Cables & Charger","Pin Gắn Trong, Cáp và Bộ Sạc",2
+49,11036060,11036030,"Cases, Covers, & Skins","Ốp lưng, bao da, Miếng dán điện thoại",2
+50,11036064,11036030,Screen Protectors,Bảo vệ màn hình,2
+51,11036074,11036030,Phone Holders & Selfie Sticks,Đế giữ điện thoại & Gậy Chụp hình,2
+52,11036083,11036030,Memory Cards,Thẻ nhớ,2
+53,11036084,11036030,Sims,Sim,2
+54,11036091,11036030,Others,Khác,2
+55,11036097,11036030,Telephones,Điện Thoại Bàn,2
+56,11036194,0,"Moms, Kids & Babies",Mẹ & Bé,1
+57,11036195,11036194,Baby Travel Essentials,Đồ dùng du lịch cho bé,2
+58,11036204,11036194,Feeding Essentials,Đồ dùng ăn dặm cho bé,2
+59,11036213,11036194,Maternity Accessories,Phụ kiện cho mẹ,2
+60,11036217,11036194,Maternity Healthcare,Chăm sóc sức khỏe mẹ,2
+61,11036222,11036194,Bath & Body Care,Đồ dùng phòng tắm & Chăm sóc cơ thể bé,2
+62,11036233,11036194,Nursery,Đồ dùng phòng ngủ cho bé,2
+63,11036240,11036194,Baby Safety,An toàn cho bé,2
+64,11036248,11036194,Baby Food,Thực phẩm cho bé,2
+65,11036253,11036194,Baby Healthcare,Chăm sóc sức khỏe bé,2
+66,11036260,11036194,Diapering & Potty,Tã & bô em bé,2
+67,11036266,11036194,Toys,Đồ chơi,2
+68,11036277,11036194,Gift Sets & Packages,Bộ & Gói quà tặng,2
+69,11036278,11036194,Others,Khác,2
+70,11059299,11036194,Milk 24 months and ups,Sữa công thức trên 24 tháng,2
+71,11059300,11036194,Milk Formula 0- 24 months,Sữa công thức 0-24 tháng tuổi,2
+72,11036132,0,Consumer Electronics,Thiết Bị Điện Tử,1
+73,11036160,11036132,Wearable Devices,Thiết bị đeo thông minh,2
+74,11036167,11036132,Tivi Accessories,Phụ kiện tivi,2
+75,11036172,11036132,Gaming & Console,Máy Game Console,2
+76,11036182,11036132,Console Accessories,Phụ kiện Console,2
+77,11036184,11036132,Video Games,Đĩa game,2
+78,11036133,11036132,Accessories and spare parts,Linh phụ kiện,2
+79,11036143,11036132,Earphones,Tai Nghe,2
+80,11036135,11036132,Audio,Loa,2
+81,11036151,11036132,Tivi,Tivi,2
+82,11036157,11036132,Tivi Box,Tivi Box,2
+83,11109141,11036132,Headphones,Headphones,2
+84,11036670,0,Home & Living,Nhà Cửa & Đời Sống,1
+85,11036683,11036670,Bedding,"Chăn, Ga, Gối & Nệm",2
+86,11036695,11036670,Furniture,Đồ nội thất,2
+87,11036717,11036670,Home Decoration,Trang trí nhà cửa,2
+88,11036732,11036670,Tools and Home improvement,Dụng cụ & Thiết bị tiện ích,2
+89,11036748,11036670,Kitchenware and food storage, Đồ dùng nhà bếp và hộp đựng thực phẩm,2
+90,11036760,11036670,Lighting,Đèn,2
+91,11036776,11036670,Outdoor & Garden,Ngoài trời & Sân vườn,2
+92,11036671,11036670,Bathroom,Đồ dùng phòng tắm,2
+93,11111670,11036670,Regilious and Worship items,Vật phẩm thờ cúng,2
+94,11111669,11036670,Party supplies,Đồ trang trí tiệc,2
+95,11111665,11036670,Housekeeping and Laundry,Chăm sóc nhà cửa và giặt ủi,2
+96,11111668,11036670,Houseorganizers,Sắp xếp nhà cửa,2
+97,11111666,11036670,Drinkware,Dụng cụ pha chế,2
+98,11111664,11036670,Home Fragrance & Aromatherapy,Tinh dầu thơm phòng,2
+99,11111667,11036670,Dinnerware,Đồ dùng phòng ăn,2
+100,11035954,0,Computer & Accessories,Máy Tính & Laptop,1
+101,11035955,11035954,Desktop Computers,Máy Tính Bàn,2
+102,11035961,11035954,Monitors,Màn Hình,2
+103,11035962,11035954,Desktop & Laptop Components,Linh Kiện Máy Tính,2
+104,11035975,11035954,Data Storage,Thiết Bị Lưu Trữ,2
+105,11035983,11035954,Network Components,Thiết Bị Mạng,2
+106,11035993,11035954,"Printers, Scanners & Projectors","Máy In, Máy Scan & Máy Chiếu",2
+107,11036000,11035954,Peripherals & Accessories,Phụ Kiện Máy Tính,2
+108,11036015,11035954,Laptops,Laptop,2
+109,11036016,11035954,Others,Khác,2
+110,11036023,11035954,Gaming,Gaming,2
+111,11036279,0,Beauty & Personal Care,Sắc Đẹp,1
+112,11036328,11036279,Skincare,Chăm sóc da mặt,2
+113,11036280,11036279,Bath & Body Care,Tắm & chăm sóc cơ thể,2
+114,11036314,11036279,Makeup,Trang điểm,2
+115,11036297,11036279,Hair Care,Chăm sóc tóc,2
+116,11036321,11036279,Beauty Tools & Accessories,Dụng cụ & Phụ kiện Làm đẹp,2
+117,11111646,11036279,Oral Care,Vệ sinh răng miệng,2
+118,11036310,11036279,Perfumes & Fragrances,Nước hoa,2
+119,11036304,11036279,Men's Care,Chăm sóc nam giới,2
+120,11036344,11036279,Others,Khác,2
+121,11111647,11036279,Feminine Care,Chăm sóc phụ nữ,2
+122,11036343,11036279,Beauty Sets & Packages,Bộ sản phẩm làm đẹp,2
+123,11036101,0,Cameras,Máy Ảnh & Máy Quay Phim,1
+124,11036102,11036101,Cameras,Máy ảnh - Máy quay phim,2
+125,11036109,11036101,Security Cameras & Systems,Camera giám sát & Camera hệ thống,2
+126,11036114,11036101,Memory Cards,Thẻ nhớ,2
+127,11036115,11036101,Lenses,Ống kính,2
+128,11036119,11036101,Camera Accessories,Phụ kiện máy ảnh,2
+129,11036129,11036101,Drones,Máy bay camera & Phụ kiện,2
+130,11036345,0,Health,Sức Khỏe,1
+131,11036352,11036345,Medical Supplies,Vật tư y tế,2
+132,11036373,11036345,Insect Repellents,Chống muỗi & xua đuổi côn trùng,2
+133,11036346,11036345,Food Supplement,Thực phẩm chức năng,2
+134,11036370,11036345,Adult Diapers & Incontinence,Tã người lớn,2
+135,11036348,11036345,Beauty Supplements,Hỗ trợ làm đẹp,2
+136,11036375,11036345,Sexual Wellness,Hỗ trợ tình dục,2
+137,11036372,11036345,Massage & Therapy Devices,Dụng cụ massage và trị liệu,2
+138,11036381,11036345,Others,Khác,2
+139,11035788,0,Watches,Đồng Hồ,1
+140,11035789,11035788,Men Watches,Đồng Hồ Nam,2
+141,11035790,11035788,Women Watches,Đồng Hồ Nữ,2
+142,11035791,11035788,Set & Couple Watches,Bộ Đồng Hồ & Đồng Hồ Cặp,2
+143,11035792,11035788,Kid Watches,Đồng Hồ Trẻ Em,2
+144,11035793,11035788,Watches Accessories,Phụ Kiện Đồng Hồ,2
+145,11035800,11035788,Others,Khác,2
+146,11035825,0,Women Shoes,Giày Dép Nữ,1
+147,11035826,11035825,Boots,Bốt,2
+148,11035830,11035825,Sneakers,Giày Thể Thao/ Sneaker,2
+149,11035831,11035825,Flats,Giày Đế Bằng,2
+150,11035837,11035825,Heels,Giày Cao Gót,2
+151,11035838,11035825,Wedges,Giày Đế Xuồng,2
+152,11035839,11035825,Flat Sandals & Flip Flops,Xăng-đan Và Dép,2
+153,11035845,11035825,Shoe Care & Accessories,Phụ Kiện Giày,2
+154,11035852,11035825,Others,Giày Khác,2
+155,11035801,0,Men Shoes,Giày Dép Nam,1
+156,11035802,11035801,Boots,Bốt,2
+157,11035807,11035801,Sneakers,Giày Thể Thao/ Sneakers,2
+158,11035808,11035801,Slip Ons & Mules,Giày Sục,2
+159,11035809,11035801,Loafers & Boat Shoes,Giày Tây Lười,2
+160,11035810,11035801,Oxfords & Lace-Ups,Giày Oxfords & Giày Buộc Dây,2
+161,11035811,11035801,Sandals & Flip Flops,Xăng-đan và Dép,2
+162,11035817,11035801,Shoe Care & Accessories,Phụ kiện giày dép,2
+163,11035824,11035801,Others,Khác,2
+164,11035761,0,Women Bags,Túi Ví Nữ,1
+165,11035762,11035761,Backpacks,Ba Lô Nữ,2
+166,11035763,11035761,Laptop Bags,Cặp Laptop,2
+167,11035768,11035761,Clutches & Wristlets,Ví Dự Tiệc & Ví Cầm Tay,2
+168,11035769,11035761,Waist Bags & Chest Bags,Túi Đeo Hông & Túi Đeo Ngực,2
+169,11035770,11035761,Tote Bags,Túi Tote,2
+170,11035771,11035761,Top-handle Bags,Túi Quai Xách,2
+171,11035772,11035761,Crossbody & Shoulder Bags,Túi Đeo Chéo & Túi Đeo Vai,2
+172,11035773,11035761,Wallets,Ví/Bóp Nữ,2
+173,11035780,11035761,Bag Accessories,Phụ Kiện Túi,2
+174,11035787,11035761,Others,Khác,2
+175,11036971,0,Home Appliances,Thiết Bị Điện Gia Dụng,1
+176,11036972,11036971,Kitchen Appliances,Đồ gia dụng nhà bếp,2
+177,11036990,11036971,Large Appliance,Đồ gia dụng lớn,2
+178,11037000,11036971,Vacuums & Floor care,Máy hút bụi & Thiết bị làm sạch,2
+179,11037007,11036971,Air Conditioners & Fans,Quạt & Máy nóng lạnh,2
+180,11037016,11036971,Garment Care,Thiết bị chăm sóc quần áo,2
+181,11037023,11036971,Others,Khác,2
+182,11111623,11036971,"Blenders, Mixers & Grinders","Máy xay, ép, máy đánh trứng trộn bột, máy  xay thực phẩm",2
+183,11111620,11036971,Electric Cookers,Bếp điện,2
+184,11035853,0,Fashion Accessories,Phụ Kiện & Trang Sức Nữ,1
+185,11035854,11035853,Rings,Nhẫn,2
+186,11035855,11035853,Earrings,Bông tai,2
+187,11035856,11035853,Scarves & Shawls,Khăn choàng,2
+188,11035857,11035853,Gloves,Găng tay,2
+189,11035858,11035853,Hair Accessories,Phụ kiện tóc,2
+190,11035865,11035853,Bracelets & Bangles,Vòng tay & Lắc tay,2
+191,11035866,11035853,Anklets,Lắc chân,2
+192,11035867,11035853,Hats & Caps,Mũ,2
+193,11035868,11035853,Necklaces,Dây chuyền,2
+194,11035869,11035853,Eyewear,Kính mắt,2
+195,11035874,11035853,Investment Precious Metals,Kim loại quý,2
+196,11035880,11035853,Belts,Thắt lưng,2
+197,11035881,11035853,"Neckties, Bow Ties & Cravats",Cà vạt & Nơ cổ,2
+198,11035882,11035853,Additional Accessories,Phụ kiện thêm,2
+199,11035891,11035853,Accessories Sets & Packages,Bộ phụ kiện,2
+200,11035892,11035853,Others,Khác,2
+201,11035893,11035853,Socks & Stockings,Vớ/ Tất,2
+202,11035897,11035853,Umbrella,Ô/Dù,2
+203,11035478,0,Sport & Outdoor,Thể Thao & Du Lịch,1
+204,11035479,11035478,Luggage,Vali,2
+205,11035487,11035478,Travel Bags,Túi du lịch,2
+206,11035492,11035478,Travel Accessories,Phụ kiện du lịch,2
+207,11035503,11035478,Sports & Outdoor Recreation Equipments,Dụng Cụ Thể Thao & Dã Ngoại,2
+208,11035531,11035478,Sports Footwear,Giày Thể Thao,2
+209,11035543,11035478,Sports & Outdoor Apparels,Thời Trang Thể Thao & Dã Ngoại,2
+210,11035553,11035478,Sports & Outdoor Accessories,Phụ Kiện Thể Thao & Dã Ngoại,2
+211,11035566,11035478,Others,Khác,2
+212,11036525,0,Grocery,Bách Hóa Online,1
+213,11036532,11036525,Snacks,Đồ ăn vặt,2
+214,11036526,11036525,Convenience / Ready-to-eat,Đồ chế biến sẵn,2
+215,11036544,11036525,Food Staples,Nhu yếu phẩm,2
+216,11036552,11036525,Cooking Essentials,Nguyên liệu nấu ăn,2
+217,11036562,11036525,Baking Needs,Đồ làm bánh,2
+218,11036591,11036525,Dairy & Eggs,Sữa - trứng,2
+219,11036576,11036525,Beverages,Đồ uống,2
+220,11036570,11036525,Breakfast Cereals & Spread,Ngũ cốc & mứt,2
+221,11036611,11036525,Bakery,Các loại bánh,2
+222,11036616,11036525,Alcoholic Beverages,Đồ uống có cồn,2
+223,11036622,11036525,Gift Set & Hampers,Bộ quà tặng,2
+224,11036601,11036525,Fresh & Frozen Food,Thực phẩm tươi sống và thực phẩm đông lạnh,2
+225,11036623,11036525,Others,Khác,2
+226,11036793,0,Automotive,Ô Tô & Xe Máy & Xe Đạp,1
+227,11036794,11036793,"Bike, E-bike","Xe đạp, xe điện",2
+228,11036804,11036793,Motorbike,"Mô tô, xe máy",2
+229,11036811,11036793,Car,Xe Ô tô,2
+230,11036817,11036793,Helmets,Mũ bảo hiểm,2
+231,11036824,11036793,Motorbike Accessories,Phụ kiện xe máy,2
+232,11036846,11036793,Bicycle & E-bike Accessories,Phụ kiện xe đạp,2
+233,11108984,11036793,Interior Accessories,Phụ kiện bên trong ô tô,2
+234,11108967,11036793,Automotive Oils & Lubes,Dầu nhớt & dầu nhờn,2
+235,11109015,11036793,Auto Parts & Spares,Phụ tùng ô tô,2
+236,11108953,11036793,Motorbike Spare Parts,Phụ tùng xe máy,2
+237,11109002,11036793,Exterior Accessories,Phụ kiện bên ngoài ô tô,2
+238,11108974,11036793,Automotive Care,Chăm sóc ô tô,2
+239,11036863,0,Books & Stationery,Nhà Sách Online,1
+240,11108503,11036863,Domestic Books,Sách Tiếng Việt,2
+241,11108540,11036863,Foreign Books,Sách ngoại văn,2
+242,11108576,11036863,Gift & Wrapping,Gói Quà,2
+243,11108584,11036863,Writing & Correction,Bút viết,2
+244,11108591,11036863,School & Office Supplies,Dụng cụ học sinh & văn phòng,2
+245,11108635,11036863,Coloring & Arts,"Màu, Họa Cụ và Đồ Thủ Công",2
+246,11108610,11036863,Notebooks & Paper Products,Sổ và Giấy Các Loại,2
+247,11036914,11036863,Souvenirs,Quà Lưu Niệm,2
+248,11108624,11036863,Music & Media,Nhạc cụ và phụ kiện âm nhạc,2
+249,11035741,0,Men Bags,Balo & Túi Ví Nam,1
+250,11035742,11035741,Backpacks,Ba Lô Nam,2
+251,11035743,11035741,Laptop Backpacks,Ba Lô Laptop Nam,2
+252,11035744,11035741,Laptop Bags & Cases,Túi & Cặp Đựng Laptop,2
+253,11035747,11035741,Laptop Sleeves,Túi Chống Sốc Laptop Nam,2
+254,11035748,11035741,Tote Bags,Túi Tote Nam,2
+255,11035749,11035741,Briefcases,Cặp Xách Công Sở Nam,2
+256,11035750,11035741,Clutches,Ví Cầm Tay Nam,2
+257,11035751,11035741,Waist Bags & Chest Bags,Túi Đeo Hông & Túi Đeo Ngực Nam,2
+258,11035752,11035741,Crossbody & Shoulder Bags,Túi Đeo Chéo Nam,2
+259,11035753,11035741,Wallets,Bóp/Ví Nam,2
+260,11035760,11035741,Others,Khác,2
+261,11036382,0,Kid Fashion,Thời Trang Trẻ Em,1
+262,11036418,11036382,Boy Clothes,Trang phục bé trai,2
+263,11036438,11036382,Girl Clothes,Trang phục bé gái,2
+264,11036461,11036382,Boy Shoes,Giày dép bé trai,2
+265,11036469,11036382,Girl Shoes,Giày dép bé gái,2
+266,11036477,11036382,Others,Khác,2
+267,11036383,11036382,Baby Clothes,Quần áo em bé,2
+268,11036396,11036382,Baby Mittens & Footwear,Giày tập đi & Tất sơ sinh,2
+269,11036397,11036382,Baby & Kids Accessories,Phụ kiện trẻ em,2
+270,11036932,0,Toys,Đồ Chơi,1
+271,11036933,11036932,Action Figures & Model kits,Đồ chơi mô hình,2
+272,11036939,11036932,Game Zone,Đồ chơi giải trí,2
+273,11036946,11036932,Educational Toys,Đồ chơi giáo dục,2
+274,11036954,11036932,Baby & Toddler Toys,Đồ chơi cho trẻ sơ sinh & trẻ nhỏ,2
+275,11036960,11036932,Action & Outdoor Toys,Đồ chơi vận động & ngoài trời,2
+276,11036966,11036932,Dolls & Stuffed Toys,Búp bê & Đồ chơi nhồi bông,2
+277,11036624,0,Home care,Giặt Giũ & Chăm Sóc Nhà Cửa,1
+278,11036625,11036624,Laundry,Giặt giũ & Chăm sóc nhà cửa,2
+279,11036634,11036624,Toilet Paper,"Giấy vệ sinh, khăn giấy",2
+280,11036639,11036624,Household Cleaning,Vệ sinh nhà cửa,2
+281,11036647,11036624,Dishwashing,Vệ sinh bát đĩa,2
+282,11036649,11036624,Cleaning Tools,Dụng cụ vệ sinh,2
+283,11036654,11036624,Air Fresheners,"Chất khử mùi, làm thơm",2
+284,11036660,11036624,Insect Killer,Thuốc diệt côn trùng,2
+285,11036664,11036624,Food preservation,"Túi, màng bọc thực phẩm",2
+286,11036668,11036624,Trash Bags,"Bao bì, túi đựng rác",2
+287,11036478,0,Pets,Chăm Sóc Thú Cưng,1
+288,11036479,11036478,Pet Food,Thức ăn cho thú cưng,2
+289,11036490,11036478,Pet Accessories,Phụ kiện cho thú cưng,2
+290,11036498,11036478,Litter & Toilet,Vệ sinh cho thú cưng,2
+291,11036510,11036478,Pet Clothing & Accessories,Quần áo & phụ kiện,2
+292,11036519,11036478,Pet Healthcare,Chăm sóc sức khỏe,2
+293,11036524,11036478,Others,Khác,2
+294,11035898,0,"Tickets, Vouchers & Services",Voucher & Dịch Vụ,1
+295,11035905,11035898,F&B,Nhà hàng & Ăn uống,2
+296,11035899,11035898,Events & Attractions,Sự kiện & Giải trí,2
+297,11035931,11035898,Telco,Nạp tiền tài khoản,2
+298,11035922,11035898,Beauty & Wellness,Sức khỏe & Làm đẹp,2
+299,11035929,11035898,Transport,Gọi xe,2
+300,11035930,11035898,Lessons & Workshops,Khóa học,2
+301,11035936,11035898,Travel,Du lịch & Khách sạn,2
+302,11035909,11035898,Shopping,Mua sắm,2
+303,11035949,11035898,Shopee,Mã quà tặng Shopee,2
+304,11035913,11035898,Utilities,Thanh toán hóa đơn,2
+305,11035914,11035898,Services,Dịch vụ khác,2
