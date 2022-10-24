@@ -1,5 +1,5 @@
 ## I. Task overview:
-... based on a true story... I mean task
+... based on a true story... I mean task. All data and company's infomation (apiname, host, port,...) remain unshown
 
 #### 1. Objective: 
 measure an NLP model's performance (with each product name, suggest which category it belongs, eg: 'Black mini skirt' belongs to 'Skirt')
@@ -11,11 +11,14 @@ measure an NLP model's performance (with each product name, suggest which catego
 - Product team: intergrate api for category suggestion feature
 
 ## II. Steps:
-- Get data of products from server
-- Call suggestion api for each product  
-- Write suggest data into a google sheet for data entry team to verify if suggestion is right or not
-- Do statistics for report of model performance
-- Summerize data after verification, input back in the model as data input
+- Database to google sheet:
+    - Get data of products from server
+    - Call suggestion api for each product  
+    - Write suggest data into a google sheet for data entry team to verify if suggestion is right or not
+    - Do statistics for report of model performance
+- Google sheet to database
+    - Summerize data after verification, input back in the model as data input
+    - Upsert verified data to server for storage
 
 ## III. Skills:
 - Python 
